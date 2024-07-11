@@ -1,9 +1,12 @@
 body {
     background-color: black;
     color: white;
-    font-family: Arial, sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
 }
 
+body {
+    font-family: 
+}
 #name {
     font-size: 2.5rem;
 }
@@ -24,3 +27,17 @@ h2 {
 .contact-info a:hover {
     text-decoration: underline;
 }
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+}
+
+.spacing {
+    margin-top: 15px; /* Adjust this value to your desired spacing */
+    margin-bottom: 15px; /* Adjust this value to your desired spacing */
+}
+
