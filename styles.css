@@ -14,7 +14,9 @@ body {
 h2 {
     font-size: 2rem;
 }
-
+.contact-info{
+    font-size: 1.5rem;
+}
 .contact-info p {
     margin: 0.5rem 0;
 }
